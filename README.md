@@ -1,2 +1,2 @@
-# my-first-repo
+#My First Repository
 This is just a test repository
